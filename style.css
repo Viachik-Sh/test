@@ -1,0 +1,29 @@
+div{
+    display: flex;
+}
+section{
+    width: 220px;
+    background-color: rgb(164, 233, 233);
+    padding: 25px;
+}
+header{
+    background-color: rgb(73, 32, 109);
+}
+button{
+    padding: 6px 18px;
+    border: 0px;
+    margin: 7px;
+    background-color: rgb(20, 221, 53);  
+    border-radius: 40%; 
+}
+.discount{
+    padding: 4px;
+    background-color: rgb(221, 34, 20);
+    width: 45px;
+}
+footer{
+    color:rgb(232, 235, 199); ;
+    padding: 15px;
+    height: 75px;
+    background-color: rgb(77, 87, 143);
+}
